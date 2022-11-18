@@ -7,11 +7,12 @@
 - 🌱 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Técnico em Informática** na <a href="https://www.ulbra.br/sao-lucas">Ulbra São Lucas</a>.
 
+<p align="left">
 🌎 Contatos e redes sociais: ⤵️
+</p>
 
 
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/priscila-faleiro-butzke-b6407821a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/priscilabutzke/" alt="Instagram" target="_blank">
@@ -28,8 +29,9 @@
 ---
 
 <p align="center">
-## ⭐🚀 GitHub Estatísticas
-
+⭐🚀 GitHub Estatísticas
+</p>  
+<p align="center">
 <a href="https://github.com/PriscilaButzke">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaButzke&theme=dracula&hide_langs_below=1" />
 </a>
