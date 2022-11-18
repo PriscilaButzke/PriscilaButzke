@@ -11,7 +11,7 @@
 
 
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/priscila-faleiro-butzke-b6407821a/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/priscilabutzke/" alt="Instagram" target="_blank">
@@ -27,12 +27,12 @@
 
 ---
 
-
+<p align="center">
 ## ⭐🚀 GitHub Estatísticas
 
 <a href="https://github.com/PriscilaButzke">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaButzke&theme=dracula&hide_langs_below=1" />
 </a>
-
+</p>  
 ![Snake animation](https://github.com/PriscilaButzke/PriscilaButzke/blob/output/github-contribution-grid-snake.svg)
 
